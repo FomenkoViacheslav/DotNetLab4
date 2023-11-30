@@ -1,0 +1,10 @@
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Server\bin\Debug\Server.exe.config
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Server\bin\Debug\Server.exe
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Server\bin\Debug\Server.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Server\bin\Debug\ChatLibrary.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Server\bin\Debug\ChatLibrary.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Server\obj\Debug\Server.exe
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Server\obj\Debug\Server.pdb

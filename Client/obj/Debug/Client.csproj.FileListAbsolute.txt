@@ -1,0 +1,13 @@
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\bin\Debug\Client.exe.config
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\bin\Debug\Client.exe
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\bin\Debug\Client.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\bin\Debug\ChatLibrary.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\bin\Debug\ChatLibrary.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\obj\Debug\Client.Form1.resources
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\obj\Debug\Client.exe
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\dotnetlab4\WCFChatSimpleDemo-main\Client\obj\Debug\Client.pdb
